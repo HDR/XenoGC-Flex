@@ -19,7 +19,7 @@ U 1 1 5EF845BD
 P 7650 2275
 F 0 "GC2" H 7800 2275 50  0000 R CNN
 F 1 "NC" H 7600 2225 50  0000 R CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 7650 2275 50  0001 C CNN
+F 2 "Custom:TestPoint_Plated_Hole_D1.6mm" H 7650 2275 50  0001 C CNN
 F 3 "~" H 7650 2275 50  0001 C CNN
 	1    7650 2275
 	0    -1   1    0   
@@ -30,7 +30,7 @@ U 1 1 5EF83549
 P 7500 2275
 F 0 "GC1" H 7650 2275 50  0000 R CNN
 F 1 "VCC" H 7475 2225 50  0000 R CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 7500 2275 50  0001 C CNN
+F 2 "Custom:TestPoint_Plated_Hole_D1.6mm" H 7500 2275 50  0001 C CNN
 F 3 "~" H 7500 2275 50  0001 C CNN
 	1    7500 2275
 	0    -1   1    0   
@@ -41,7 +41,7 @@ U 1 1 5EF86369
 P 7950 2275
 F 0 "GC4" H 8100 2275 50  0000 R CNN
 F 1 "NC" H 7900 2225 50  0000 R CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 7950 2275 50  0001 C CNN
+F 2 "Custom:TestPoint_Plated_Hole_D1.6mm" H 7950 2275 50  0001 C CNN
 F 3 "~" H 7950 2275 50  0001 C CNN
 	1    7950 2275
 	0    -1   1    0   
@@ -52,7 +52,7 @@ U 1 1 5EF8636F
 P 7800 2275
 F 0 "GC3" H 7950 2275 50  0000 R CNN
 F 1 "NC" H 7750 2225 50  0000 R CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 7800 2275 50  0001 C CNN
+F 2 "Custom:TestPoint_Plated_Hole_D1.6mm" H 7800 2275 50  0001 C CNN
 F 3 "~" H 7800 2275 50  0001 C CNN
 	1    7800 2275
 	0    -1   1    0   
@@ -63,7 +63,7 @@ U 1 1 5EF866CB
 P 8100 2275
 F 0 "GC5" H 8250 2275 50  0000 R CNN
 F 1 "PB1" H 8075 2225 50  0000 R CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 8100 2275 50  0001 C CNN
+F 2 "Custom:TestPoint_Plated_Hole_D1.6mm" H 8100 2275 50  0001 C CNN
 F 3 "~" H 8100 2275 50  0001 C CNN
 	1    8100 2275
 	0    -1   1    0   
@@ -74,7 +74,7 @@ U 1 1 5EF8A665
 P 7975 2675
 F 0 "GC9" H 8125 2675 50  0000 R CNN
 F 1 "MISO" H 7925 2725 50  0000 R CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 7975 2675 50  0001 C CNN
+F 2 "Custom:TestPoint_Plated_Hole_D1.6mm" H 7975 2675 50  0001 C CNN
 F 3 "~" H 7975 2675 50  0001 C CNN
 	1    7975 2675
 	0    1    -1   0   
@@ -85,7 +85,7 @@ U 1 1 5EF8A66B
 P 8125 2675
 F 0 "GC10" H 8275 2675 50  0000 R CNN
 F 1 "NC" H 8100 2725 50  0000 R CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 8125 2675 50  0001 C CNN
+F 2 "Custom:TestPoint_Plated_Hole_D1.6mm" H 8125 2675 50  0001 C CNN
 F 3 "~" H 8125 2675 50  0001 C CNN
 	1    8125 2675
 	0    1    -1   0   
@@ -96,7 +96,7 @@ U 1 1 5EF8A671
 P 7675 2675
 F 0 "GC7" H 7825 2675 50  0000 R CNN
 F 1 "SCK" H 7625 2725 50  0000 R CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 7675 2675 50  0001 C CNN
+F 2 "Custom:TestPoint_Plated_Hole_D1.6mm" H 7675 2675 50  0001 C CNN
 F 3 "~" H 7675 2675 50  0001 C CNN
 	1    7675 2675
 	0    1    -1   0   
@@ -107,7 +107,7 @@ U 1 1 5EF8A677
 P 7825 2675
 F 0 "GC8" H 7975 2675 50  0000 R CNN
 F 1 "MOSI" H 7775 2725 50  0000 R CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 7825 2675 50  0001 C CNN
+F 2 "Custom:TestPoint_Plated_Hole_D1.6mm" H 7825 2675 50  0001 C CNN
 F 3 "~" H 7825 2675 50  0001 C CNN
 	1    7825 2675
 	0    1    -1   0   
@@ -118,7 +118,7 @@ U 1 1 5EF8A67D
 P 7525 2675
 F 0 "GC6" H 7675 2675 50  0000 R CNN
 F 1 "GND" H 7475 2725 50  0000 R CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 7525 2675 50  0001 C CNN
+F 2 "Custom:TestPoint_Plated_Hole_D1.6mm" H 7525 2675 50  0001 C CNN
 F 3 "~" H 7525 2675 50  0001 C CNN
 	1    7525 2675
 	0    1    -1   0   
@@ -373,42 +373,42 @@ Wire Wire Line
 $Comp
 L Connector:AVR-ISP-6 J1
 U 1 1 5EFAED4C
-P 3700 2550
-F 0 "J1" H 3421 2646 50  0000 R CNN
-F 1 "AVR-ISP-6" H 3421 2555 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD" V 3450 2600 50  0001 C CNN
-F 3 " ~" H 2425 2000 50  0001 C CNN
-	1    3700 2550
+P 2500 2450
+F 0 "J1" H 2221 2546 50  0000 R CNN
+F 1 "AVR-ISP-6" H 2221 2455 50  0000 R CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical" V 2250 2500 50  0001 C CNN
+F 3 " ~" H 1225 1900 50  0001 C CNN
+	1    2500 2450
 	1    0    0    -1  
 $EndComp
-Text GLabel 4100 2650 2    50   Input ~ 0
+Text GLabel 3500 2550 2    50   Input ~ 0
 RESET
 $Comp
 L power:VCC #PWR0110
 U 1 1 5EFB10CB
-P 3600 2050
-F 0 "#PWR0110" H 3600 1900 50  0001 C CNN
-F 1 "VCC" V 3618 2177 50  0000 L CNN
-F 2 "" H 3600 2050 50  0001 C CNN
-F 3 "" H 3600 2050 50  0001 C CNN
-	1    3600 2050
+P 2400 1350
+F 0 "#PWR0110" H 2400 1200 50  0001 C CNN
+F 1 "VCC" V 2418 1477 50  0000 L CNN
+F 2 "" H 2400 1350 50  0001 C CNN
+F 3 "" H 2400 1350 50  0001 C CNN
+	1    2400 1350
 	1    0    0    -1  
 $EndComp
-Text GLabel 4100 2450 2    50   Input ~ 0
+Text GLabel 3500 2350 2    50   Input ~ 0
 MOSI
-Text GLabel 4100 2350 2    50   Input ~ 0
+Text GLabel 3500 2250 2    50   Input ~ 0
 MISO
-Text GLabel 4100 2550 2    50   Input ~ 0
+Text GLabel 3500 2450 2    50   Input ~ 0
 SCK
 $Comp
 L power:GND #PWR0111
 U 1 1 5EFB6667
-P 3600 2950
-F 0 "#PWR0111" H 3600 2700 50  0001 C CNN
-F 1 "GND" V 3605 2822 50  0000 R CNN
-F 2 "" H 3600 2950 50  0001 C CNN
-F 3 "" H 3600 2950 50  0001 C CNN
-	1    3600 2950
+P 2400 3450
+F 0 "#PWR0111" H 2400 3200 50  0001 C CNN
+F 1 "GND" V 2405 3322 50  0000 R CNN
+F 2 "" H 2400 3450 50  0001 C CNN
+F 3 "" H 2400 3450 50  0001 C CNN
+	1    2400 3450
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -444,4 +444,70 @@ Connection ~ 5275 1100
 Wire Wire Line
 	5275 1100 5375 1100
 Connection ~ 5375 1100
+$Comp
+L Device:Jumper JP6
+U 1 1 5EFE6D7F
+P 2400 3150
+F 0 "JP6" V 2354 3277 50  0000 L CNN
+F 1 "Jumper" V 2445 3277 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 2400 3150 50  0001 C CNN
+F 3 "~" H 2400 3150 50  0001 C CNN
+	1    2400 3150
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Jumper JP5
+U 1 1 5EFEBA7B
+P 3200 2550
+F 0 "JP5" H 3125 2550 50  0000 L CNN
+F 1 "Jumper" V 3245 2677 50  0001 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 3200 2550 50  0001 C CNN
+F 3 "~" H 3200 2550 50  0001 C CNN
+	1    3200 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper JP3
+U 1 1 5EFEC3CC
+P 3200 2450
+F 0 "JP3" H 3125 2450 50  0000 L CNN
+F 1 "Jumper" V 3245 2577 50  0001 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 3200 2450 50  0001 C CNN
+F 3 "~" H 3200 2450 50  0001 C CNN
+	1    3200 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper JP4
+U 1 1 5EFEE19D
+P 3200 2350
+F 0 "JP4" H 3125 2350 50  0000 L CNN
+F 1 "Jumper" V 3245 2477 50  0001 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 3200 2350 50  0001 C CNN
+F 3 "~" H 3200 2350 50  0001 C CNN
+	1    3200 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper JP1
+U 1 1 5EFEE9A9
+P 3200 2250
+F 0 "JP1" H 3125 2250 50  0000 L CNN
+F 1 "Jumper" V 3245 2377 50  0001 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 3200 2250 50  0001 C CNN
+F 3 "~" H 3200 2250 50  0001 C CNN
+	1    3200 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper JP2
+U 1 1 5EFEF7A4
+P 2400 1650
+F 0 "JP2" H 2325 1650 50  0000 L CNN
+F 1 "Jumper" V 2445 1777 50  0001 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 2400 1650 50  0001 C CNN
+F 3 "~" H 2400 1650 50  0001 C CNN
+	1    2400 1650
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
