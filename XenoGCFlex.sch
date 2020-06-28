@@ -363,7 +363,6 @@ F 3 "" H 6700 3300 50  0001 C CNN
 $EndComp
 NoConn ~ 4675 2325
 NoConn ~ 4675 2425
-NoConn ~ 5975 2875
 NoConn ~ 4775 1250
 NoConn ~ 4650 1050
 Wire Wire Line
