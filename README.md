@@ -8,6 +8,15 @@
 
 Make sure you select Flex on checkout
 
+## Flashing
+
+Flashing is done over isp, a raspberry pi can be used for this, see https://github.com/HDR/RaspberryPi_ISP
+
+```
+sudo avrdude -p m8 -C ~/avrdude_gpio.conf -c pi_1 -U lfuse:w:0xe4:m -U hfuse:w:0xd9:m
+sudo avrdude -p m8 -C ~/avrdude_gpio.conf -c pi_1 -U flash:w:XenoGC-Firmware.hex
+```
+
 ## BOM
 
 | Reference        | Part Number           | Description  |
